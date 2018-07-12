@@ -1,3 +1,0 @@
-print("HelloGit")
-FINISHED
-HEYHEY
