@@ -1,0 +1,32 @@
+﻿{
+    "Weapons": [
+        {
+            "ID": "1",
+            "Name": "A",
+            "elementType": "Air",
+            "damage": "5",
+            "range": "5"
+        },
+        {
+            "ID": "2",
+            "Name": "B",
+            "elementType": "Fire",
+            "damage": "15",
+            "range": "6"
+        },
+        {
+            "ID": "3",
+            "Name": "C",
+            "elementType": "Water",
+            "damage": "25",
+            "range": "7"
+        },
+        {
+            "ID": "4",
+            "Name": "D",
+            "elementType": "Earth",
+            "damage": "30",
+            "range": "8"
+        }
+    ]
+}

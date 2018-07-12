@@ -1,0 +1,28 @@
+﻿{
+    "Characters": [
+        {
+            "CharacterName": "John",
+            "Hp": "100",
+            "AtkPower": "20",
+            "Occupation": "Warrior"
+        },
+        {
+            "CharacterName": "Jack",
+            "Hp": "150",
+            "AtkPower": "22",
+            "Occupation": "Rouge"
+        },
+        {
+            "CharacterName": "Mary",
+            "Hp": "130",
+            "AtkPower": "18",
+            "Occupation": "Cleric"
+        },
+        {
+            "CharacterName": "Andy",
+            "Hp": "80",
+            "AtkPower": "25",
+            "Occupation": "Paladin"
+        }
+    ]
+}
